@@ -97,3 +97,4 @@ a fraction of the delta (`smoothing`), and the counts-per-degree ratio is learne
 from the previous move (so it works at any sensitivity). Nothing is ever written to the game.
 If the view-angle pointer is unavailable, the aimbot falls back to pixel deltas from the view
 matrix.
+<img width="1919" height="1079" alt="изображение" src="https://github.com/user-attachments/assets/ddcd7292-b3e9-4ef9-b92d-74484a5b558b" />
