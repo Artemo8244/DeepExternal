@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="DeepExternal/DeepExternal.vcxproj" Id="6d350e8b-3700-451b-b026-8b33b2e5812e" />
+</Solution>
